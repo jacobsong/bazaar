@@ -1,0 +1,19 @@
+{
+  "name": "bazaar",
+  "version": "1.0.0",
+  "description": "e-commerce",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacobsong/bazaar.git"
+  },
+  "author": "Jacob Song",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/jacobsong/bazaar/issues"
+  },
+  "homepage": "https://github.com/jacobsong/bazaar#readme"
+}
